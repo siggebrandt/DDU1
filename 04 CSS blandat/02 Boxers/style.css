@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+}
+
+body,
+h1 {
+    margin: 0;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+#body {
+    margin: 50px auto;
+    max-width: 800px;
+    background-color: #edd9d0;
+    padding: 100px;
+    border-radius: 5px;
+}
+
+#box {
+    border: 15px solid #c2a598;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+p {
+    background-color: #ffffffa8;
+    padding: 15px 0;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.right {
+    background-image: url(images/boxer1.jpg);
+}
+
+.left {
+    background-image: url(images//boxer2.jpg);
+}

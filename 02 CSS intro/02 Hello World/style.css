@@ -1,0 +1,21 @@
+body {
+  font-size: Georgia;
+  text-align: center;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+}
+
+p {
+  font-size: 50px;
+}
+
+a {
+  color: skyblue;
+}
+
+img {
+  border: 10px solid skyblue;
+}

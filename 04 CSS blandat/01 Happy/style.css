@@ -1,0 +1,10 @@
+body {
+  /*background: url(happy.jpg) cover no-repeat center;*/
+  background-image: url(happy.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  background-position: center;
+}

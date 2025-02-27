@@ -1,0 +1,33 @@
+body {
+  background-color: beige;
+}
+
+#step-1 {
+  color: darkorange;
+}
+.step-2 {
+  color: olive;
+}
+
+.step-3 {
+  color: indigo;
+}
+
+#step-4 {
+  font-size: 18px;
+}
+
+.step-5 {
+  font-size: 20px;
+}
+
+#step-6 {
+  font-size: 22px;
+}
+
+span {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: gold;
+  background-color: brown;
+}

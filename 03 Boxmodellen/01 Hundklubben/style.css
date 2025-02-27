@@ -1,0 +1,11 @@
+#box {
+  background-color: steelblue;
+  border: 25px solid deepskyblue;
+  color: white;
+  font: bolder 64px Helvetica;
+  text-align: center;
+  max-width: 600px;
+  padding: 30px;
+  margin: 50px auto;
+  overflow-x: hidden;
+}

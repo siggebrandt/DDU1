@@ -1,0 +1,29 @@
+main {
+    width: 300px;
+    background-color: #f7d2e0;
+    border-radius: 10px;
+    border-bottom: 5px solid #a2385f;
+    border-right: 5px solid #e47ba2;
+    margin: 35px auto 0;
+    padding: 30px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border: 10px solid #bc6686;
+    object-fit: cover;
+    margin: 10px 41px;
+    border-radius: 50%;
+}
+
+h2 {
+    font: 32px Helvetica;
+    color: #f15d94;
+}
+
+p {
+    color: #872e4f;
+    font-style: italic;
+    font-family: Helvetica;
+}

@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    max-width: 100px;
+}
+
+div:nth-of-type(1) {
+    background: goldenrod;
+    padding: 50px;
+    border: 50px solid gold;
+    margin: 0 0 0 auto;
+}
+
+div:nth-of-type(2) {
+    background: green;
+    padding: 50px;
+    border: 50px solid yellowgreen;
+    margin: 0 auto;
+}
+
+div:nth-of-type(3) {
+    background: skyblue;
+    padding: 50px;
+    border: 50px solid steelblue;
+    margin: 0 auto 0 0;
+}

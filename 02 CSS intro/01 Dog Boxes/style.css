@@ -1,0 +1,28 @@
+#basenji {
+  background-color: #f6f6dd;
+  border: #dedec7 solid 10px;
+  font-family: "Arial";
+}
+#frise {
+  background-color: #daa51e;
+  border: #ffc737 solid 10px;
+  font-family: "Verdana";
+}
+#terrier {
+  background-color: #d3691e;
+  border: 10px solid #fb8f42;
+  font-family: "Georgia";
+}
+#dachshund {
+  background-color: #d8bfd9;
+  border: #b399b3 solid 10px;
+  font-family: "Helvetica";
+}
+#pinscher {
+  background-color: #99cc32;
+  border: solid 10px #8eae47;
+  font-family: "monospace";
+}
+p {
+  line-height: 1.5;
+}

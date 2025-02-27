@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+nav {
+  width: 100%;
+  border-bottom: 1px solid blue;
+  background: lightblue;
+  text-align: center;
+  padding: 10vh 0;
+}
+
+a {
+  color: white;
+  background-color: #0088cc;
+  padding: 20px 30px 20px 30px;
+  border-radius: 5px;
+  text-decoration: none;
+  font: 20px helvetica;
+  border-bottom: 2px solid black;
+}

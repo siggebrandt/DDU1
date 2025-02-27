@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: #96cced;
+}
+header {
+  background-color: #054d66;
+  border-bottom: 2px solid black;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  font: 40px Georgia;
+  padding: 10vh 0 5vh;
+  color: #0c7193;
+  margin: 0;
+}
+
+main {
+  color: #003a52;
+  padding-top: 2vh;
+}
+
+p {
+  margin: 3vh auto 0;
+  font: 18px Helvetica;
+  max-width: 600px;
+  line-height: 1.4;
+}

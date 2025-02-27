@@ -1,0 +1,23 @@
+body {
+  background-color: beige;
+  margin: 0;
+}
+div {
+  width: 25vw;
+  height: 25vh;
+}
+#skyblue {
+  background-color: skyblue;
+}
+#tomato {
+  margin-left: 25vw;
+  background-color: tomato;
+}
+#olivedrab {
+  margin-left: 50vw;
+  background-color: olivedrab;
+}
+#gold {
+  margin-left: 75vw;
+  background-color: gold;
+}

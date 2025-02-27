@@ -1,0 +1,28 @@
+div {
+    width: 600px;
+    height: 800px;
+    margin-right: 0;
+    margin-left: auto;
+    font: 120px Georgia;
+    text-align: center;
+}
+
+span {
+    display: none;
+}
+
+div:hover {
+    background-color: #f1f1f1;
+}
+
+div:hover span {
+    display: inline;
+}
+
+div:active {
+    background: url(dog.jpg);
+}
+
+div:active span {
+    display: none;
+}

@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    text-align: center !important;
+}
+
+nav {
+    background-color: beige;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    gap: 20px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+a {
+    /*padding: 20px;*/
+    box-sizing: border-box;
+    border: 3px brown solid;
+    flex-grow: 1;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    flex-basis: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a:nth-of-type(1) {
+    background-image: url("images/husky.jpg");
+}
+
+a:nth-of-type(2) {
+    background-image: url("images/golden.jpg");
+}
+
+a:nth-of-type(3) {
+    background-image: url("images/pug.jpg");
+}

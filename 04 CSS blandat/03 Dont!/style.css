@@ -1,0 +1,28 @@
+body {
+    font: 64px Helvetica;
+    color: white;
+}
+
+div {
+    max-width: 400px;
+    padding: 160px 0;
+    margin: 160px auto 0;
+    background-color: red;
+    border-radius: 50%;
+    text-align: center;
+    border-bottom: 8px solid #970606;
+}
+
+span {
+    visibility: hidden;
+}
+
+div:hover span,
+div:active span {
+    visibility: visible;
+}
+
+div:active {
+    background-color: green;
+    border-bottom: 3px solid #044804;
+}
